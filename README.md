@@ -1,4 +1,4 @@
-# [Static Starter Porject](http://garrettgalayda.com)
+# [Static Starter Project](http://garrettgalayda.com)
 
 Just a simple static site boilerplate using, gulp, Bower, and Foundation, that will help me work out ideas or build static sites.
 
