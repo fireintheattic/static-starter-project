@@ -1,4 +1,4 @@
-# [Static Starter Project](http://github.com/kkoppenhaver)
+# [Static Starter Project](https://github.com/kkoppenhaver/static-starter-project)
 
 Just a simple static site boilerplate using, gulp, Bower, and Foundation, that will help me work out ideas or build static sites.
 
